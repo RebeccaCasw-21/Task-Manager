@@ -1,22 +1,23 @@
 # Task-Manager
 This is a Task Manager
-task-manager/
-│
-├── src/
-│   ├── components/
-│   │   ├── TaskForm.tsx
-│   │   ├── TaskList.tsx
-│   │   └── TaskItem.tsx
-│   │
-│   ├── models/
-│   │   └── Task.ts
-│   │
-│   ├── services/
-│   │   └── taskService.ts
-│   │
-│   ├── App.tsx
-│   ├── main.tsx
-│   └── index.css
-│
-├── package.json
-└── README.md
+A simple task manager built using Microsoft frontend technologies.
+
+## Features
+
+- Add tasks
+- Complete tasks
+- Delete tasks
+- LocalStorage persistence
+- Fluent UI components
+
+## Tech Stack
+
+- React
+- TypeScript
+- Fluent UI
+- Vite
+
+## Run
+
+npm install
+npm run dev
