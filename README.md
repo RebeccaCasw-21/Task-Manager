@@ -1,5 +1,5 @@
 # Task-Manager
-This is a Task Manager
+This is a Task Manager:
 A simple task manager built using Microsoft frontend technologies.
 
 ## Features
